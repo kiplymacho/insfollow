@@ -28,7 +28,7 @@ Best Tool For Increase Instagram Follower.
 1. openssl
 2. curl
 
-## How to Install in Termux
+## Ketikkan Di Termux 
 ```
 pkg update
 ```
@@ -74,7 +74,6 @@ bash insfollow.sh
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-  
 # Bila masih bingung bisa di tanyakan 
 - [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
 - [WhatsApp](https://wa.me/6285751032225)
