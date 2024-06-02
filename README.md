@@ -30,27 +30,36 @@ Best Tool For Increase Instagram Follower.
 2. curl
 
 ## How to Install in Termux
-`$ pkg up -y`
-
-`$ pkg install openssl-tool`
-
-`$ pkg install curl`
-
-`$ pkg install git`
-
-`$ git clone https://github.com/kiplymacho/insfollow
-
-`$ cd insfollow`
-
-`$ chmod +x insfollow.sh`
-
-`$ termux-wake-lock`
-
-`$ bash insfollow.sh`
-
-## • Watch Video Tutorial From Below
-* https://youtu.be/3JE9hTvIjkg
----
+```
+pkg update
+```
+```
+pkg upgrade
+```
+```
+pkg install openssl-tool
+```
+```
+pkg install curl
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/kiplymacho/insfollow
+```
+```
+cd insfollow
+```
+```
+chmod +x insfollow.sh
+```
+```
+termux-wake-lock
+```
+```
+bash insfollow.sh
+```
 
 </p>
 <div height='45' align="center">
@@ -66,11 +75,24 @@ Best Tool For Increase Instagram Follower.
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 
-<p align="center">
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
+<h2 align="center">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">
+  
+# Bila masih bingung bisa di tanyakan 
+- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
+- [WhatsApp](https://wa.me/6285751032225)
 
-&nbsp;</p><p align="center">Youtube</p><p align="center"><span style="text-align: left;">👇👇</span></p>
-
-<p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.youtube.com/@km7ujuh">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;👇👇&nbsp;</p>
-
-<p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.instagram.com/kiplymacho">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p></p>
+# _Follow_
+- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
