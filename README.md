@@ -19,9 +19,7 @@ Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh D
 [termux](https://sfile.mobi/1Pk3b69xugs7)
 
 # InsFollow
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
-</p>
+
 Best Tool For Increase Instagram Follower.
 
 ## Requirements
@@ -74,7 +72,7 @@ bash insfollow.sh
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-# Bila masih bingung bisa di tanyakan 
+- Bila masih bingung bisa di tanyakan 
 - [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
 - [WhatsApp](https://wa.me/6285751032225)
 
